@@ -1,0 +1,38 @@
+Q1) Load the dataset and plot a histogram for the `Score A` column by keeping the `number of bins to 6`. Which bin range among the following has the highest frequency?
+
+(`Note` - *The bin ranges mentioned in the options are approximate values for the bin ranges that you'll actually get when you plot the histogram*)
+
+    a)0-50
+    b)50-100
+    c)150-200
+    d)200-250
+    
+    
+ Q2) Plot a box plot for the column `Score C` and choose the correct option.
+ 
+     A - The 25th percentile lies between 20 and 40
+     B - The 75th percentile lies between 40 and 60
+     C - The 25th percentile lies between 0 and 20
+     D - Both B and C
+   
+ 
+ Q4) Plot a pie-chart to find the Ship Mode through which most of the orders are being delivered.
+ 
+      a)Standard Class
+      b)First Class
+      c)Second Class
+      d)Same Day
+     
+    
+  
+  Q5) Plot a bar chart comparing the average `Discount` across all the `Regions` and report back the `Region` getting the highest average discount
+  
+  Note- You need to clean the `Discount` column first
+  
+      a)Central
+      b)South
+      c)West
+      d)East
+      
+      
+  Q6) Provide your expert comments for both Marks and Superstore data
